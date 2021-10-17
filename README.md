@@ -3,7 +3,7 @@
 ## Its_me_Ameen
 
 <div align="center">
-  <img src=https://i.imgur.com/2Fx8JvD.jpeg>
+  <img src=https://i.imgur.com/YTaFJwn.jpeg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
