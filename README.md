@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+### Its_me_Ameen
 
 
 ### ⚠️ Warning! 
@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://i.imgur.com/2Fx8JvD.jpeg>
+  [![AmeenSer](<img src=https://i.imgur.com/2Fx8JvD.jpeg>
  https://github.com/Dilmano/Amalser_v1 |  
 ----|
 [Its_me_Ameen](https://github.com/Dilmano/Amalser_v1)  |
