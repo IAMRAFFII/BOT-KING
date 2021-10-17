@@ -9,7 +9,7 @@ const END = "Thats a plugin with enjoyable tools together inside. (Meme Pack V3)
 const TRD = "Birbirinden farklı değişik ve eğlenceli araçların bir arada bulunduğu bir plugindir (2.versiyondur yani devamıdır)"
 const HID = "यह एक प्लगइन के साथ सुखद उपकरण अंदर है। (Meme Pack V3)"
 
-if (ch.LANG === 'TR') {
+if (ch.LANG === 'EN') {
 
     if (ch.WORKTYPE === 'private') {
    
