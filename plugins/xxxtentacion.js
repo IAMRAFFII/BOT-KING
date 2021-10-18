@@ -55,7 +55,7 @@ var i = Math.floor(16*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '𝐌𝐚𝐝𝐞 𝐁𝐲 𝐀𝐦𝐞𝐞𝐧𝐒𝐞𝐫'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '𝐌𝐚𝐝𝐞 𝐁𝐲 𝐀𝐦𝐞𝐞𝐧𝐒𝐞𝐫 𝐀𝐧𝐝 𝐑𝐚𝐟𝐢💝'})
 
     }));
 
@@ -104,7 +104,7 @@ r_text[15] = "https://telegra.ph/file/00a4732edf86b425ecdea.jpg";
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '𝐌𝐚𝐝𝐞 𝐁𝐲 𝐀𝐦𝐞𝐞𝐧𝐒𝐞𝐫'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '𝐌𝐚𝐝𝐞 𝐁𝐲 𝐀𝐦𝐞𝐞𝐧𝐒𝐞𝐫 𝐀𝐧𝐝 𝐑𝐚𝐟𝐢💝'})
 
     }));
 
