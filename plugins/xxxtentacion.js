@@ -1,8 +1,8 @@
-/* Copyright (C) 2021 ameer-kallumthodi.
+/*Copyright (C) 2021 Ameen-Rafi.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Pikachu-Ameer Suhail
-*/
+Ameen Ser-Rafi Ser
+
 
 const Asena = require('../events');
 
