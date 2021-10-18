@@ -120,9 +120,10 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '917994909899@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-            if (!!message.mention && message.mention[0] == '91919605741366@s.whatsapp.net') {
-                await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/refi.mp3'), MessageType.audio, {mimetype: Mimetype.mp4audio, quoted : message.data, ptt: true})
-                      }
+        if (!!message.mention && message.mention[0] == '919605741366@s.whatsapp.net') {
+await message.client.sendMessage (message.jid, fs.readFileSync('./uploads/refi.mp3'), MessageType.audio, { mimetype: Mimetype,mp4Audio, quoted : message.data, ptt: true})            
+        }       
+                      
  
 
 
