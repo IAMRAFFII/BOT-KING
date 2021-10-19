@@ -133,7 +133,7 @@ const array = ['ya','apo','bomb','ee','Chandran','list','machu','menu','refi','a
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-       await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/' + a + '.mp3'), MessageType.audio, {contextInfo: { forwardingScore: 999, isForwarded: true }, mimetype: Mimetype.mp4Audio, quoted: message.data, ptt: true})
+       await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/' + a + '.mp3'), MessageType.audio, {contextInfo: { forwardingScore: 999, isForwarded: true }, mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted: message.data, ptt: true})
 }
 });
     }
