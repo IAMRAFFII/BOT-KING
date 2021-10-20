@@ -1,6 +1,6 @@
 <div align="center">
 
-## ༒︎ ꧁𓂸𝐁𝐎𝐓-𝐊𝐈𝐍𝐆𓂸꧂ ༒︎
+## ༒︎꧁𝐁𝐎𝐓-𝐊𝐈𝐍𝐆꧂༒︎
 
 <div align="center">
   <img src=https://i.imgur.com/1AOiBPY.jpeg>
