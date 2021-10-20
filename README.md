@@ -3,7 +3,7 @@
 ## Its_me_Ameen
 
 <div align="center">
-  <img src=https://i.imgur.com/YTaFJwn.jpeg>
+  <img src=https://i.imgur.com/1AOiBPY.jpeg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Ameen
+### ☮︎𝐁𝐨𝐭-𝐊𝐢𝐧𝐠𖦹
 
 
 ### ⚠️ Warning! 
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![AmeenSer](<img src=https://i.imgur.com/2Fx8JvD.jpeg>
+  [![☮︎𝐁𝐨𝐭-𝐊𝐢𝐧𝐠☮︎](<img src=https://i.imgur.com/1AOiBPY.jpeg>
  https://github.com/Dilmano/Amalser_v1 |  
 ----|
-[Its_me_Ameen](https://github.com/Dilmano/Amalser_v1)  |
+[☮︎𝐁𝐨𝐭-𝐊𝐢𝐧𝐠☮︎](https://github.com/Luciferking1/BOT-KING)  |
 Base, Bug Fixes, Modules | 
   
     
