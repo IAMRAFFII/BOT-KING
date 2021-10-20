@@ -1,6 +1,6 @@
 <div align="center">
 
-## Its_me_Ameen
+## ༒︎ ꧁𓂸𝐁𝐎𝐓-𝐊𝐈𝐍𝐆𓂸꧂ ༒︎
 
 <div align="center">
   <img src=https://i.imgur.com/1AOiBPY.jpeg>
@@ -46,7 +46,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![☮︎𝐁𝐨𝐭-𝐊𝐢𝐧𝐠☮︎](<img src=https://i.imgur.com/1AOiBPY.jpeg>
- https://github.com/Dilmano/Amalser_v1 |  
+ https://github.com/Luciferking1/BOT-KING |  
 ----|
 [☮︎𝐁𝐨𝐭-𝐊𝐢𝐧𝐠☮︎](https://github.com/Luciferking1/BOT-KING)  |
 Base, Bug Fixes, Modules | 
