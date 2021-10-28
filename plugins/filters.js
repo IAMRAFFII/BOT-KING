@@ -124,7 +124,9 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/refi.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
                                                                                                                     
         }       
-         
+         if (!! message.mention && message.mention[0] == '919207994850@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/cris.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
+         }
                                  
 
 
