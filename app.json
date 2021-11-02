@@ -8,7 +8,7 @@
     "success_url": "maintainence",
     "stack": "container",
     "env": {
-        "BOT-KING_SESSION": {
+        "BOT_KING_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
