@@ -13,7 +13,7 @@ class StringSession {
     }
 
     deCrypt(string = undefined) {
-        if ('BOT-KING_SESSION' in process.env && string === undefined) {
+        if ('BOT_KING_SESSION' in process.env && string === undefined) {
             string = process.env.STRING_SESSION;
         } else if (string !== undefined) {
             if (fs.existsSync(string)) {
