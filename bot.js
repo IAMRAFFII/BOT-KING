@@ -16,7 +16,7 @@ const got = require('got');
 const axios = require('axios');
 
 // Sql
-const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
+const WhatsAsenaDB = config.DATABASE.define('BOT-KING', {
     info: {
       type: DataTypes.STRING,
       allowNull: false
