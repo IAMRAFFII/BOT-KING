@@ -74,8 +74,8 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Amalser Restarting...please wait Bro 5mints...😌```",
+            "RESTART_DESC": "Restart BotKing",
+            "RESTART_MSG": "```BotKing Restarting...please wait Bro 5mints...😌```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
@@ -109,7 +109,7 @@
             "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME!```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅Amalser Welcome message has been set successfully ✅️*",
+            "WELCOME_SETTED": "*✅BotKing Welcome message has been set successfully ✅️*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​ ✅️ 🇮​🇫​ 🇾​🇴​🇺​ 🇹​🇷​🇾​ 🇾​🇴​🇺​ 🇼​🇮​🇱​🇱​ 🇧​🇪​ 🇷​🇪​🇲​🇴​🇻​🇪​🇩​ 🇧​🇾​ 🇦​🇩​🇲​🇮​🇳​🇸​",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye Your Goodbye Message```",
@@ -236,7 +236,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🧸✅  sanam set👍*",
             "UPDATED_LOCAL": "*✅ Successfully Updated 😍😍😍!*",
-            "AFTER_UPDATE": "*💘 Amalser Restarting  please wait 5mints*"
+            "AFTER_UPDATE": "*💘 BotKing Restarting  please wait 5mints*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
