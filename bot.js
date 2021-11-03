@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Amalser working perfectly 💘')
+            chalk.green.bold('BOT-KING working perfectly 💘')
         );
     });
     
